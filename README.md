@@ -1,6 +1,10 @@
 <div align=center>
-  <img src="https://capsule-render.vercel.app/api?type=wave&color=0:E1DCD9,100:8F8681&height=300&section=header&text=capsule%20render&fontSize=90" />
+  <img src="https://capsule-render.vercel.app/api?type=wave&color=0:E1DCD9,100:8F8681&height=300&section=header&text=Welcome%20👋🏻&fontSize=70" />
 </div>
+
+<br>
+<br>
+<br>
 
 <h3 align=center>💻 STACKS 💻</h3>
 <div align=center>
@@ -31,3 +35,7 @@
 <div align=center>
   <img src="https://img.shields.io/badge/jibus0901@gmail.com-EA4335?style=for-the-badge&logo=Gmail&logoColor=white">
 </div>
+
+<br>
+<br>
+<br>
