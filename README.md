@@ -1,6 +1,4 @@
-<h2 align=left>👏🏻 Welcome</h2>
-
-<br>
+<h1 align=left>👏🏻 Welcome</h1>
 
 <h3 align=left>💻 STACKS</h3>
 <div align=left>
@@ -20,5 +18,3 @@
 <div align=left>
   <img src="https://img.shields.io/badge/jibus0901@gmail.com-EA4335?style=for-the-badge&logo=Gmail&logoColor=white">
 </div>
-
-<br>
