@@ -1,17 +1,18 @@
-<div align=center>
-  <img src="https://capsule-render.vercel.app/api?type=wave&color=0:E1DCD9,100:8F8681&height=300&section=header&text=Welcome%20👋🏻&fontSize=70" />
+<div align=left>
+  <h3>
+    Welcome 👏🏻
+  </h3>
 </div>
 
 <br>
 <br>
 <br>
 
-<h3 align=left>💻 STACKS 💻</h3>
+<h3 align=left>💻 STACKS</h3>
 <div align=left>
   <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white">
   <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white">
   <img src="https://img.shields.io/badge/springboot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white">
-  <br>
   <img src="https://img.shields.io/badge/amazonaws-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white">
   <img src="https://img.shields.io/badge/apache tomcat-F8DC75?style=for-the-badge&logo=apachetomcat&logoColor=white">
   <br>
@@ -21,7 +22,7 @@
   <br>
 </div>
 
-<h3 align=left>✉️ CONTACT ✉️</h3>
+<h3 align=left>✉️ CONTACT</h3>
 <div align=left>
   <img src="https://img.shields.io/badge/jibus0901@gmail.com-EA4335?style=for-the-badge&logo=Gmail&logoColor=white">
 </div>
