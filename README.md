@@ -6,8 +6,8 @@
 <br>
 <br>
 
-<h3 align=center>💻 STACKS 💻</h3>
-<div align=center>
+<h3 align=left>💻 STACKS 💻</h3>
+<div align=left>
   <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white">
   <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white">
   <img src="https://img.shields.io/badge/springboot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white">
@@ -21,8 +21,8 @@
   <br>
 </div>
 
-<h3 align=center>✉️ CONTACT ✉️</h3>
-<div align=center>
+<h3 align=left>✉️ CONTACT ✉️</h3>
+<div align=left>
   <img src="https://img.shields.io/badge/jibus0901@gmail.com-EA4335?style=for-the-badge&logo=Gmail&logoColor=white">
 </div>
 
