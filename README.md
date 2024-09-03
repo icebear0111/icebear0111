@@ -1,11 +1,5 @@
-<div align=left>
-  <h3>
-    Welcome 👏🏻
-  </h3>
-</div>
+<h3 align=left>Welcome 👏🏻</h3>
 
-<br>
-<br>
 <br>
 
 <h3 align=left>💻 STACKS</h3>
