@@ -13,8 +13,3 @@
   <img src="https://img.shields.io/badge/macos-000000?style=for-the-badge&logo=macos&logoColor=white">
   <br>
 </div>
-
-<h3 align=left>✉️ CONTACT</h3>
-<div align=left>
-  <img src="https://img.shields.io/badge/jibus0901@gmail.com-EA4335?style=for-the-badge&logo=Gmail&logoColor=white">
-</div>
