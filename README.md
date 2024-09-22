@@ -1,9 +1,9 @@
-<h1 align=left>👏🏻 Welcome</h1>
+# 👏🏻 Welcome
 
-<h3 align=left>📚 EDUCATION</h3>
+### 📚 EDUCATION
 - Sejong Univ. Computer Engineering (2019.03 ~ 2025.02)
 
-<h3 align=left>💻 STACKS</h3>
+### 💻 STACKS
 <div align=left>
   <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white">
   <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white">
