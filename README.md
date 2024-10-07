@@ -13,5 +13,9 @@
   <br>
 </div>
 
-### BOJ
+### 🏆 BOJ
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=wltjq0901)](https://solved.ac/wltjq0901/)
+
+### ✉️ CONTACT
+[![Velog Badge](http://img.shields.io/badge/Velog-white?style=flat-square&logo=Velog&link=https://velog.io/@jibus0901/)](https://velog.io/@jibus0901)
+[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jibus0901@gmail.com)](mailto:jibus0901@gmail.com)
