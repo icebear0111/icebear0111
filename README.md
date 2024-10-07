@@ -12,3 +12,6 @@
   <img src="https://img.shields.io/badge/macos-000000?style=for-the-badge&logo=macos&logoColor=white">
   <br>
 </div>
+
+### BOJ
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=wltjq0901)](https://solved.ac/wltjq0901/)
