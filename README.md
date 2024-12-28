@@ -33,5 +33,9 @@
 
 ### 🐧 GitAnimals
 <a href="https://github.com/devxb/gitanimals">
-  <img src="https://render.gitanimals.org/farms/icebear0111"/>
+<img
+  src="https://render.gitanimals.org/farms/icebear0111"
+  width="600"
+  height="300"
+/>
 </a>
