@@ -12,7 +12,6 @@
 ![](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white)
 <br>
 ![](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-<br>
 <img src="https://img.shields.io/badge/aws-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white">
 <br>
 <img src="https://img.shields.io/badge/Intellij-000000?style=for-the-badge&logo=Intellij IDEA&logoColor=white">
@@ -30,6 +29,7 @@
 
 ### ✉️ CONTACT
 Blog | [🔗velog.io/@jibus0901](https://velog.io/@jibus0901/posts)
+
 E- mail | [📧 jibus0901@gmail.com](mailto:jibus0901@gmail.com)
 
 ### 🐧 GitAnimals
