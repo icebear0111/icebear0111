@@ -6,12 +6,15 @@
 
 ### 💻 STACKS
 <div align=left>
-  <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white"> 
-  <img src="https://img.shields.io/badge/springboot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white">
+  ![](https://img.shields.io/badge/Java-3776AB?style=for-the-badge&logo=java&logoColor=white)
+  ![](https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
   <br>
-  <img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black">
+  ![](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white)
+  ![](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white)
+  <br>
+  ![](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+  <br>
   <img src="https://img.shields.io/badge/aws-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white">
-  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white">
   <br>
   <img src="https://img.shields.io/badge/Intellij-000000?style=for-the-badge&logo=Intellij IDEA&logoColor=white">
   <img src="https://img.shields.io/badge/VSCODE-007ACC?style=for-the-badge&logo=Visual Studio Code&logoColor=white">
