@@ -26,6 +26,7 @@
 
 ### 🏆 BOJ
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=wltjq0901)](https://solved.ac/wltjq0901/)
+![mazandi profile](http://mazandi.herokuapp.com/api?handle={wltjq0901}&theme=cold)
 
 ### ✉️ CONTACT
 Blog | [🔗velog.io/@jibus0901](https://velog.io/@jibus0901/posts)
