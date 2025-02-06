@@ -5,19 +5,16 @@
 - 우리 FISA 4기 `2024.12 ~ 2025.06`
 
 ### 💻 STACKS
+#### I mainly used...
 ![](https://img.shields.io/badge/Java-3776AB?style=for-the-badge&logo=java&logoColor=white)
 ![](https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
-<br>
+![](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+
+#### I am currently learning...
+![](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
 ![](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white)
 ![](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white)
-<br>
-![](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-<img src="https://img.shields.io/badge/aws-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white">
-<br>
-<img src="https://img.shields.io/badge/Intellij-000000?style=for-the-badge&logo=Intellij IDEA&logoColor=white">
-<img src="https://img.shields.io/badge/VSCODE-007ACC?style=for-the-badge&logo=Visual Studio Code&logoColor=white">
-<img src="https://img.shields.io/badge/macos-000000?style=for-the-badge&logo=macos&logoColor=white">
-<br>
+![](https://img.shields.io/badge/aws-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white)
 
 ### 📚 CERTIFICATES
 - TOEIC 960 `2024`
